@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.510838mm"
+   height="20.949467mm"
+   viewBox="0 0 27.510838 20.949467"
+   version="1.1"
+   id="svg2406"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="Le Diamant.svg">
+  <defs
+     id="defs2400" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="58.184885"
+     inkscape:cy="35.227168"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1652"
+     inkscape:window-height="948"
+     inkscape:window-x="110"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2403">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.18146,-200.12686)">
+    <g
+       id="g3007">
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 112.83013,212.023 -1.49135,3.13505 -1.81214,-1.60273 0.50072,3.07744 -0.82678,0.85874 -3.23111,-1.58937 -1.06853,-3.13221 -1.01258,2.52343 -3.88783,-2.96635 -5.16503,1.1326 -4.76382,3.25921 0.16294,3.18766 -1.92546,1.05381"
+         id="path70"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         style="display:inline;opacity:0.997;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 112.14233,204.15552 0.11544,2.36753 1.30032,1.61585 -0.057,1.396 -1.19578,-1.9e-4 -0.68152,0.83862 1.2063,1.65013"
+         id="path187"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="display:inline;opacity:0.997;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 112.14233,204.15552 -0.76378,-0.872 -1.42908,-0.39284 -0.39763,0.39812 -0.0136,0.82684 -1.11113,0.69371 -1.6319,-1.26235 -1.53518,0.0809 0.11519,-1.69782 -1.3541,-0.88704 -0.0691,1.03789 0.36197,0.34982 -1.00293,0.73648 -1.89781,0.0948 -1.83632,-1.53049 -2.89632,0.0724 -0.87826,0.43058 -1.11043,1.33036 -2.20622,-1.61408 -0.1541,-1.05478 -1.17673,-0.60335 -0.81125,0.96495 -2.64035,1.11817 1.32726,0.41545 -0.66335,1.36006 1.89496,2.38896 -2.30342,2.12389 0.3684,1.00151 -1.0896,-0.0771 -0.88946,0.42716 0.78319,2.07471 0.95397,1.31228 0.0928,3.00554 -1.61561,1.38852 1.75985,3.17221"
+         id="path189"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
