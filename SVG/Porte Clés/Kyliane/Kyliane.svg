@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50mm"
-   height="10mm"
-   viewBox="0 0 50 10"
+   width="45mm"
+   height="8mm"
+   viewBox="0 0 45 8"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870, 2021-01-15)"
@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="60.828426"
-     inkscape:cy="48.806258"
+     inkscape:zoom="3.959798"
+     inkscape:cx="28.869558"
+     inkscape:cy="55.052312"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1652"
-     inkscape:window-height="948"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
      inkscape:window-x="72"
      inkscape:window-y="27"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,14 +53,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:Madina;-inkscape-font-specification:Madina;stroke-width:0.264583"
-       x="10.160777"
-       y="7.8056765"
-       id="text835"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.66502px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.241621"
+       x="4.7909288"
+       y="6.7569494"
+       id="text835"
+       transform="scale(1.1716607,0.85348942)"><tspan
          sodipodi:role="line"
          id="tspan833"
-         x="10.160777"
-         y="7.8056765"
-         style="stroke-width:0.264583">Kyliane</tspan></text>
+         x="4.7909288"
+         y="6.7569494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.66502px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.241621">Kyliane</tspan></text>
   </g>
 </svg>
